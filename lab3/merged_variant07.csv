@@ -1,0 +1,11 @@
+sku,supplier_id,stock,price,supplier_name,country
+1001,1,5,25,Global Parts Ltd,Germany
+1003,3,3,80,Nova Supply,Poland
+1004,1,8,120,Global Parts Ltd,Germany
+1006,5,6,30,Nordic Components,Sweden
+1007,2,2,45,TechSource,USA
+1009,3,9,90,Nova Supply,Poland
+1010,1,4,150,Global Parts Ltd,Germany
+1012,5,7,35,Nordic Components,Sweden
+1013,6,1,60,EuroWarehouse,Netherlands
+1015,3,10,75,Nova Supply,Poland

@@ -1,0 +1,30 @@
+Лабораторна робота №3 — Звіт (Варіант 7)
+
+== Таблиця A ==
+shape: (15, 4)
+columns: ['sku', 'supplier_id', 'stock', 'price']
+dtypes:
+sku            int64
+supplier_id    int64
+stock          int64
+price          int64
+dtype: object
+
+== Таблиця B ==
+shape: (6, 3)
+columns: ['supplier_id', 'supplier_name', 'country']
+
+== Після фільтрації A ==
+shape: (10, 4)
+
+== GroupBy report (перші 10 рядків) ==
+ supplier_id  sku_count  stock_sum  price_mean
+           1          3         17   98.333333
+           2          1          2   45.000000
+           3          3         22   81.666667
+           5          2         13   32.500000
+           6          1          1   60.000000
+
+== Merge result ==
+merge key: supplier_id, how: left
+shape: (10, 6)
