@@ -1,0 +1,28 @@
+Лабораторна робота №1 — Звіт (Варіант 7)
+Вхідний файл: variant07.csv
+Кількість записів (всього): 40
+Кількість записів (після фільтра): 16
+
+Колонки:
+sku, product, category, stock, price
+
+Пропуски по колонках:
+- sku: 0
+- product: 0
+- category: 0
+- stock: 0
+- price: 0
+
+Статистика числової колонки 'stock' (після фільтра):
+- count:  16
+- min:    0.0
+- max:    10.0
+- mean:   5.375
+- median: 5.5
+
+Топ-5 значень категоріальної колонки 'category' (після фільтра):
+1) Stationery — 7
+2) Electronics — 4
+3) Furniture — 2
+4) Accessories — 2
+5) Lighting — 1

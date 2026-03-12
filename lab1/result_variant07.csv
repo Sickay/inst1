@@ -1,0 +1,17 @@
+sku,product,category,stock,price
+1001,Notebook,Stationery,2,17
+1006,Notebook,Stationery,9,12
+1007,Desk,Furniture,0,181
+1008,Keyboard,Electronics,3,35
+1015,Marker,Stationery,8,17
+1016,Water Bottle,Accessories,6,17
+1018,Table Lamp,Lighting,7,28
+1020,Notebook,Stationery,10,-1
+1021,Keyboard,Electronics,3,42
+1026,Marker,Stationery,1,25
+1031,Water Bottle,Accessories,1,15
+1034,Monitor,Electronics,8,197
+1035,Keyboard,Electronics,4,29
+1036,Pen Set,Stationery,9,11
+1038,Pen Set,Stationery,10,13
+1039,Desk,Furniture,5,188
